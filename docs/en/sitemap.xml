@@ -2,407 +2,407 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://j-lewen.github.io/Website/authors/</loc>
+    <loc>https://j-lewen.github.io/authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/authors/"
+                href="https://j-lewen.github.io/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/authors/"
+                href="https://j-lewen.github.io/authors/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/authors/hugo-authors/</loc>
+    <loc>https://j-lewen.github.io/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/autores/autores-de-hugo/"
+                href="https://j-lewen.github.io/pt-br/autores/autores-de-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/authors/hugo-authors/"
+                href="https://j-lewen.github.io/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/</loc>
+    <loc>https://j-lewen.github.io/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/"
+                href="https://j-lewen.github.io/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/"
+                href="https://j-lewen.github.io/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/series/hugo/</loc>
+    <loc>https://j-lewen.github.io/series/hugo/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/mermaid-support/</loc>
+    <loc>https://j-lewen.github.io/posts/mermaid-support/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://j-lewen.github.io/Website/posts/"
-                />
-  </url><url>
-    <loc>https://j-lewen.github.io/Website/series/</loc>
+    <loc>https://j-lewen.github.io/posts/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/series/"
+                href="https://j-lewen.github.io/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/series/"
+                href="https://j-lewen.github.io/posts/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/series/theme/</loc>
+    <loc>https://j-lewen.github.io/series/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://j-lewen.github.io/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://j-lewen.github.io/series/"
+                />
+  </url><url>
+    <loc>https://j-lewen.github.io/series/theme/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://j-lewen.github.io/Website/categories/</loc>
+    <loc>https://j-lewen.github.io/categories/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/categories/"
+                href="https://j-lewen.github.io/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/categories/"
+                href="https://j-lewen.github.io/categories/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/css/</loc>
+    <loc>https://j-lewen.github.io/tags/css/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/css/"
+                href="https://j-lewen.github.io/pt-br/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/css/"
+                href="https://j-lewen.github.io/tags/css/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/html/</loc>
+    <loc>https://j-lewen.github.io/tags/html/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/html/"
+                href="https://j-lewen.github.io/pt-br/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/html/"
+                href="https://j-lewen.github.io/tags/html/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/html-and-css-only-tabs/</loc>
+    <loc>https://j-lewen.github.io/posts/html-and-css-only-tabs/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/markdown/</loc>
+    <loc>https://j-lewen.github.io/tags/markdown/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/markdown/"
+                href="https://j-lewen.github.io/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/markdown/"
+                href="https://j-lewen.github.io/tags/markdown/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/categories/syntax/</loc>
+    <loc>https://j-lewen.github.io/categories/syntax/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/categoria/sintaxe/"
+                href="https://j-lewen.github.io/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/categories/syntax/"
+                href="https://j-lewen.github.io/categories/syntax/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/</loc>
+    <loc>https://j-lewen.github.io/tags/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/"
+                href="https://j-lewen.github.io/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/"
+                href="https://j-lewen.github.io/tags/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/categories/themes/</loc>
+    <loc>https://j-lewen.github.io/categories/themes/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/categoria/temas/"
+                href="https://j-lewen.github.io/pt-br/categoria/temas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/categories/themes/"
+                href="https://j-lewen.github.io/categories/themes/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/series/themes-guide/</loc>
+    <loc>https://j-lewen.github.io/series/themes-guide/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/markdown-syntax/</loc>
+    <loc>https://j-lewen.github.io/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/posts/markdown-syntax/"
+                href="https://j-lewen.github.io/pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/posts/markdown-syntax/"
+                href="https://j-lewen.github.io/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/privacy/</loc>
+    <loc>https://j-lewen.github.io/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/privacy/"
+                href="https://j-lewen.github.io/pt-br/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/privacy/"
+                href="https://j-lewen.github.io/tags/privacy/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/rich-content/</loc>
+    <loc>https://j-lewen.github.io/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/posts/rich-content/"
+                href="https://j-lewen.github.io/pt-br/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/posts/rich-content/"
+                href="https://j-lewen.github.io/posts/rich-content/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/shortcodes/</loc>
+    <loc>https://j-lewen.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/shortcodes/"
+                href="https://j-lewen.github.io/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/shortcodes/"
+                href="https://j-lewen.github.io/tags/shortcodes/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/more-rich-content/</loc>
+    <loc>https://j-lewen.github.io/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/posts/more-rich-content/"
+                href="https://j-lewen.github.io/pt-br/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/posts/more-rich-content/"
+                href="https://j-lewen.github.io/posts/more-rich-content/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/placeholder-text/</loc>
+    <loc>https://j-lewen.github.io/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/posts/placeholder-text/"
+                href="https://j-lewen.github.io/pt-br/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/posts/placeholder-text/"
+                href="https://j-lewen.github.io/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/text/</loc>
+    <loc>https://j-lewen.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/text/"
+                href="https://j-lewen.github.io/pt-br/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/text/"
+                href="https://j-lewen.github.io/tags/text/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/math-typesetting/</loc>
+    <loc>https://j-lewen.github.io/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/posts/math-typesetting/"
+                href="https://j-lewen.github.io/pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/posts/math-typesetting/"
+                href="https://j-lewen.github.io/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/emoji/</loc>
+    <loc>https://j-lewen.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/emoji/"
+                href="https://j-lewen.github.io/pt-br/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/emoji/"
+                href="https://j-lewen.github.io/tags/emoji/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/emoji-support/</loc>
+    <loc>https://j-lewen.github.io/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/posts/emoji-support/"
+                href="https://j-lewen.github.io/pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/posts/emoji-support/"
+                href="https://j-lewen.github.io/posts/emoji-support/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/development/</loc>
+    <loc>https://j-lewen.github.io/tags/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/development/"
+                href="https://j-lewen.github.io/pt-br/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/development/"
+                href="https://j-lewen.github.io/tags/development/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/categories/development/</loc>
+    <loc>https://j-lewen.github.io/categories/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/categories/development/"
+                href="https://j-lewen.github.io/pt-br/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/categories/development/"
+                href="https://j-lewen.github.io/categories/development/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/posts/hugo-coder-wiki/</loc>
+    <loc>https://j-lewen.github.io/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/posts/hugo-coder-wiki/"
+                href="https://j-lewen.github.io/pt-br/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/posts/hugo-coder-wiki/"
+                href="https://j-lewen.github.io/posts/hugo-coder-wiki/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/hugo/</loc>
+    <loc>https://j-lewen.github.io/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/hugo/"
+                href="https://j-lewen.github.io/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/hugo/"
+                href="https://j-lewen.github.io/tags/hugo/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/tags/themes/</loc>
+    <loc>https://j-lewen.github.io/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/tags/themes/"
+                href="https://j-lewen.github.io/pt-br/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/tags/themes/"
+                href="https://j-lewen.github.io/tags/themes/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/about/</loc>
+    <loc>https://j-lewen.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/about/"
+                href="https://j-lewen.github.io/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/about/"
+                href="https://j-lewen.github.io/about/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/contact/</loc>
+    <loc>https://j-lewen.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/contact/"
+                href="https://j-lewen.github.io/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/contact/"
+                href="https://j-lewen.github.io/contact/"
                 />
   </url><url>
-    <loc>https://j-lewen.github.io/Website/projects/</loc>
+    <loc>https://j-lewen.github.io/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://j-lewen.github.io/Website/pt-br/projects/"
+                href="https://j-lewen.github.io/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://j-lewen.github.io/Website/projects/"
+                href="https://j-lewen.github.io/projects/"
                 />
   </url>
 </urlset>
