@@ -2,407 +2,407 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://j-lewen.github.io/Website/authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/authors/"
+                href="https://j-lewen.github.io/Website/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://j-lewen.github.io/Website/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/authors/hugo-authors/</loc>
+    <loc>https://j-lewen.github.io/Website/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/autores/autores-de-hugo/"
+                href="https://j-lewen.github.io/Website/pt-br/autores/autores-de-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/hugo-authors/"
+                href="https://j-lewen.github.io/Website/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://j-lewen.github.io/Website/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://j-lewen.github.io/Website/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://j-lewen.github.io/Website/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/hugo/</loc>
+    <loc>https://j-lewen.github.io/Website/series/hugo/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/mermaid-support/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/mermaid-support/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
-    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/posts/"
-                />
-  </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://j-lewen.github.io/Website/pt-br/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://j-lewen.github.io/Website/posts/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/theme/</loc>
+    <loc>https://j-lewen.github.io/Website/series/</loc>
+    <lastmod>2022-07-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://j-lewen.github.io/Website/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://j-lewen.github.io/Website/series/"
+                />
+  </url><url>
+    <loc>https://j-lewen.github.io/Website/series/theme/</loc>
     <lastmod>2022-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://j-lewen.github.io/Website/categories/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://j-lewen.github.io/Website/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://j-lewen.github.io/Website/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/css/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/css/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/css/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/css/"
+                href="https://j-lewen.github.io/Website/tags/css/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/html/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/html/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/html/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/html/"
+                href="https://j-lewen.github.io/Website/tags/html/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/html-and-css-only-tabs/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/html-and-css-only-tabs/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/markdown/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/markdown/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/markdown/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/markdown/"
+                href="https://j-lewen.github.io/Website/tags/markdown/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/syntax/</loc>
+    <loc>https://j-lewen.github.io/Website/categories/syntax/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categoria/sintaxe/"
+                href="https://j-lewen.github.io/Website/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/syntax/"
+                href="https://j-lewen.github.io/Website/categories/syntax/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://j-lewen.github.io/Website/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/themes/</loc>
+    <loc>https://j-lewen.github.io/Website/categories/themes/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categoria/temas/"
+                href="https://j-lewen.github.io/Website/pt-br/categoria/temas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/themes/"
+                href="https://j-lewen.github.io/Website/categories/themes/"
                 />
   </url><url>
-    <loc>http://www.example.com/series/themes-guide/</loc>
+    <loc>https://j-lewen.github.io/Website/series/themes-guide/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/markdown-syntax/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/markdown-syntax/"
+                href="https://j-lewen.github.io/Website/pt-br/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/markdown-syntax/"
+                href="https://j-lewen.github.io/Website/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/privacy/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/privacy/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/privacy/"
+                href="https://j-lewen.github.io/Website/tags/privacy/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/rich-content/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/rich-content/"
+                href="https://j-lewen.github.io/Website/pt-br/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/rich-content/"
+                href="https://j-lewen.github.io/Website/posts/rich-content/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/shortcodes/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/shortcodes/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/shortcodes/"
+                href="https://j-lewen.github.io/Website/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/more-rich-content/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/more-rich-content/"
+                href="https://j-lewen.github.io/Website/pt-br/posts/more-rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/more-rich-content/"
+                href="https://j-lewen.github.io/Website/posts/more-rich-content/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/placeholder-text/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/placeholder-text/"
+                href="https://j-lewen.github.io/Website/pt-br/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/placeholder-text/"
+                href="https://j-lewen.github.io/Website/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/text/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/text/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/text/"
+                href="https://j-lewen.github.io/Website/tags/text/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/math-typesetting/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/math-typesetting/"
+                href="https://j-lewen.github.io/Website/pt-br/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/math-typesetting/"
+                href="https://j-lewen.github.io/Website/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/emoji/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/emoji/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/emoji/"
+                href="https://j-lewen.github.io/Website/tags/emoji/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/emoji-support/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/emoji-support/"
+                href="https://j-lewen.github.io/Website/pt-br/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/emoji-support/"
+                href="https://j-lewen.github.io/Website/posts/emoji-support/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/development/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/development/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/development/"
+                href="https://j-lewen.github.io/Website/tags/development/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/development/</loc>
+    <loc>https://j-lewen.github.io/Website/categories/development/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/development/"
+                href="https://j-lewen.github.io/Website/pt-br/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/development/"
+                href="https://j-lewen.github.io/Website/categories/development/"
                 />
   </url><url>
-    <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
+    <loc>https://j-lewen.github.io/Website/posts/hugo-coder-wiki/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/hugo-coder-wiki/"
+                href="https://j-lewen.github.io/Website/pt-br/posts/hugo-coder-wiki/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/hugo-coder-wiki/"
+                href="https://j-lewen.github.io/Website/posts/hugo-coder-wiki/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/hugo/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/hugo/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/hugo/"
+                href="https://j-lewen.github.io/Website/tags/hugo/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/themes/</loc>
+    <loc>https://j-lewen.github.io/Website/tags/themes/</loc>
     <lastmod>2019-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/themes/"
+                href="https://j-lewen.github.io/Website/pt-br/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/themes/"
+                href="https://j-lewen.github.io/Website/tags/themes/"
                 />
   </url><url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://j-lewen.github.io/Website/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
+                href="https://j-lewen.github.io/Website/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://j-lewen.github.io/Website/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>https://j-lewen.github.io/Website/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/contact/"
+                href="https://j-lewen.github.io/Website/pt-br/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://j-lewen.github.io/Website/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/projects/</loc>
+    <loc>https://j-lewen.github.io/Website/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/projects/"
+                href="https://j-lewen.github.io/Website/pt-br/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="https://j-lewen.github.io/Website/projects/"
                 />
   </url>
 </urlset>
