@@ -1,5 +1,5 @@
 baseURL = "https://j-lewen.github.io/"
-title = "johndoe"
+title = "JenLewendon"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,12 +13,12 @@ enableEmoji = true
 publishDir = "docs"
 
 [params]
-author = "Joe"
+author = "Jen Lewendon"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "John Doe's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
-avatarURL = "images/N90.jpg"
+info = ["Cognitive Neuroscience", "Psycholinguistics", "ERPology"]
+avatarURL = "images/photo.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
@@ -120,40 +120,20 @@ author = "authors"
 [[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
-
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://github.com/J-lewen"
 
 [[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+name = "Web of Science"
+icon = "fa fa-2x fa-spinner"
+weight = 1
+url = "https://osf.io/f4rnw/"
 
 [[params.social]]
-name = "Medium"
-icon = "fa fa-2x fa-bomb"
-weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+name = "Google scholar"
+icon = "fa fa-2x fa-google"
+weight = 2
+url = "https://scholar.google.com/citations?user=oMuNHZoAAAAJ&hl=en&oi=ao"
 
 [languages.en]
 languageName = ":uk:"
@@ -164,18 +144,28 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
-weight = 2
+name = "Projects"
+weight = 3
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+name = "Research"
+weight = 2
+url = "research/"
+
+[[languages.en.menu.main]]
+name = "Data"
+weight = 4
+url = "data/"
+
+[[languages.en.menu.main]]
+name = "Teaching & Resources"
+weight = 5
+url = "teaching/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 5
+weight = 6
 url = "contact/"
 
 [languages.pt-br]

@@ -370,39 +370,14 @@
   </url><url>
     <loc>https://j-lewen.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://j-lewen.github.io/pt-br/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://j-lewen.github.io/about/"
-                />
+  </url><url>
+    <loc>https://j-lewen.github.io/data/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://j-lewen.github.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://j-lewen.github.io/pt-br/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://j-lewen.github.io/contact/"
-                />
+  </url><url>
+    <loc>https://j-lewen.github.io/contact/</loc>
   </url><url>
     <loc>https://j-lewen.github.io/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://j-lewen.github.io/pt-br/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://j-lewen.github.io/projects/"
-                />
   </url>
 </urlset>
