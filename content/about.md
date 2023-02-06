@@ -8,4 +8,4 @@ author = "Hugo Authors"
 
 about me
 
-[My CV](images/Lewendon_CV_2023.pdf)
+[My CV](/images/Lewendon_CV_2023.pdf)
