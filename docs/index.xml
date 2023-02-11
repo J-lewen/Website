@@ -8,6 +8,33 @@
     <language>en</language>
     <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="https://j-lewen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>temas</title>
+      <link>https://j-lewen.github.io/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>https://j-lewen.github.io/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>https://j-lewen.github.io/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>https://j-lewen.github.io/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Códigos curtos</title>
+      <link>https://j-lewen.github.io/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>https://j-lewen.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mermaid JS support</title>
       <link>https://j-lewen.github.io/posts/mermaid-support/</link>
       <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
@@ -30,6 +57,15 @@ Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading Yo
     </item>
     
     <item>
+      <title>Guia de Sintaxe Markdown</title>
+      <link>https://j-lewen.github.io/posts/markdown-syntax.pt-br/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-lewen.github.io/posts/markdown-syntax.pt-br/</guid>
+      <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>https://j-lewen.github.io/posts/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
@@ -39,12 +75,30 @@ Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading Yo
     </item>
     
     <item>
+      <title>Conteúdo Rico</title>
+      <link>https://j-lewen.github.io/posts/rich-content.pt-br/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-lewen.github.io/posts/rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Rich Content</title>
       <link>https://j-lewen.github.io/posts/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://j-lewen.github.io/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mais Conteúdo Rico</title>
+      <link>https://j-lewen.github.io/posts/more-rich-content.pt-br/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-lewen.github.io/posts/more-rich-content.pt-br/</guid>
+      <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -66,6 +120,24 @@ Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading Yo
     </item>
     
     <item>
+      <title>Texto de Exemplo</title>
+      <link>https://j-lewen.github.io/posts/placeholder-text.pt-br/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-lewen.github.io/posts/placeholder-text.pt-br/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Configuração de Equações Matemáticas</title>
+      <link>https://j-lewen.github.io/posts/math-typesetting.pt-br/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-lewen.github.io/posts/math-typesetting.pt-br/</guid>
+      <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Math Typesetting</title>
       <link>https://j-lewen.github.io/posts/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
@@ -84,7 +156,25 @@ Hello Hello World! Goodbye Goodbye Everybody! Right alighment Link to heading Yo
     </item>
     
     <item>
+      <title>Suporte a Emojis</title>
+      <link>https://j-lewen.github.io/posts/emoji-support.pt-br/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-lewen.github.io/posts/emoji-support.pt-br/</guid>
+      <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>External Page: Hugo Coder Wiki</title>
+      <link>https://j-lewen.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-lewen.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Página Externa: Wiki Hugo Coder</title>
       <link>https://j-lewen.github.io/posts/hugo-coder-wiki/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -124,13 +214,12 @@ OSF:</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://j-lewen.github.io/contact/</link>
+      <title>ERP docs</title>
+      <link>https://j-lewen.github.io/resource_files/erpdocs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://j-lewen.github.io/contact/</guid>
-      <description>Email me: jennifer.lewendon@polyu.edu.hk
-OSF:</description>
+      <guid>https://j-lewen.github.io/resource_files/erpdocs/</guid>
+      <description>xxxxx</description>
     </item>
     
     <item>
@@ -139,9 +228,18 @@ OSF:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://j-lewen.github.io/research/</guid>
-      <description>
-My research interests span psycholinguistics, cognitive neuroscience, ERPology and social cognition. Broadly, my work falls into four main themes:
-ERPology Link to heading Speech processing Link to heading Bilingualism Link to heading Social cognition Link to heading One-stage vs two-stage processing Link to heading Neuroscientific methods in social congition Link to heading </description>
+      <description>My research interests span psycholinguistics, cognitive neuroscience, ERPology and social cognition. Broadly, my work falls into four main themes:
+ERPology Link to heading Over the last 60 years, ERP methodolgy has developed so as to be unrecognisable from the original research of the 70&amp;rsquo;s and 80&amp;rsquo;s. With these methodological developments come significant changes in our understanding of best practice. Substantial efforts have been made to encourage best-practice data acquisition, pre-processing and analyses:</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://j-lewen.github.io/resource_files/resource_files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://j-lewen.github.io/resource_files/resource_files/</guid>
+      <description>Here is some hopefully useful stuff, including ERP analysis and pre-processing resources (i.e., scripts and video tutorials on pre-processing and data analysis using a variety of software), unpublished research output (i.e., databases, useful papers), and teaching material.
+Everything is released under a CC-BY license, which means you can do anything you want with these materials and can change/adapt them in any way you like, as long as you acknowledge that you got it from here.</description>
     </item>
     
   </channel>

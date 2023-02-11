@@ -6,7 +6,16 @@
     <description>Recent content in Tags on JenLewendon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://j-lewen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 11:51:36 +0100</lastBuildDate><atom:link href="https://j-lewen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Códigos curtos</title>
+      <link>https://j-lewen.github.io/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>https://j-lewen.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>css</title>
       <link>https://j-lewen.github.io/tags/css/</link>
@@ -40,15 +49,6 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://j-lewen.github.io/tags/privacy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://j-lewen.github.io/tags/shortcodes/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://j-lewen.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
