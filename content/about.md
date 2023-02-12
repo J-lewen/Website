@@ -6,6 +6,13 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-about me
+I am an acadmic currently working at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/) (NYUAD). My research interests span psycholinguistics, cognitive neuroscience, ERPology, and social cognition. 
 
-[My CV](/files/Lewendon_CV_2023.pdf)
+Specifically, my current work follow three main themes: (i) the development of functional 
+and neurobiological accounts of speech processing, alongside improvements in replicability & standardisation of reporting in ERP research (ii) investigations into listener extraction of non-linguistic, pragmatic speaker information (e.g., attitudes/stereotypes, and inferences about gender, sexuality, race), and (iii) eye-tracking and ERP investigations into the cognitive mechanisms underpinning bi/multilingualism. I teach courses spanning statistics & research methods, psycholinguistics, language impairments, critical appraisal & evidence-based practice and neurobiology/cognitive neuroscience.
+
+In my spare time, I enjoy [writing articles about academia](https://www.nature.com/articles/d41586-021-03566-4), creating ERP databases & resources, cooking, jumping in lakes, good beer, growing plants, and taking photos of the great outdoors so that I can remember what it looks like despite the sedentary nature of my job.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [here](/files/Lewendon_CV_2023.pdf) to view & download my CV.
+
+![Hong Kong](/images/HK.jpg)

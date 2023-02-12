@@ -13,7 +13,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://j-lewen.github.io/resource_files/erpdocs/</guid>
-      <description>xxxxx</description>
+      <description>An instance of the Portfolio widget. Link to heading Documentation: https://wowchemy.com/docs/page-builder/ Link to heading widget: portfolio
+This file represents a page section. Link to heading headless: true
+Order that this section appears on the page. Link to heading weight: 65
+title: Projects subtitle: &#39;&#39;
+content:
+Page type to display. E.g. project. Link to heading page_type: project
+Default filter index (e.g. 0 corresponds to the first filter_button instance below). Link to heading filter_default: 0</description>
     </item>
     
     <item>
