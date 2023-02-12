@@ -19,7 +19,7 @@ description = "Jen's personal website"
 keywords = "ERP, Lewendon, psychology, language, research, academic"
 info = ["Cognitive Neuroscience", "Psycholinguistics", "ERPology"]
 avatarURL = "images/photo.png"
-#gravatar = "john.doe@example.com"
+#gravatar = "jennifer.lewendon@polyu.edu.hk"
 dateFormat = "January 2, 2006"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
