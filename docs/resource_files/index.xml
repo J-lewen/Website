@@ -7,30 +7,5 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://j-lewen.github.io/resource_files/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ERP docs</title>
-      <link>https://j-lewen.github.io/resource_files/erpdocs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://j-lewen.github.io/resource_files/erpdocs/</guid>
-      <description>An instance of the Portfolio widget. Link to heading Documentation: https://wowchemy.com/docs/page-builder/ Link to heading widget: portfolio
-This file represents a page section. Link to heading headless: true
-Order that this section appears on the page. Link to heading weight: 65
-title: Projects subtitle: &#39;&#39;
-content:
-Page type to display. E.g. project. Link to heading page_type: project
-Default filter index (e.g. 0 corresponds to the first filter_button instance below). Link to heading filter_default: 0</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://j-lewen.github.io/resource_files/resource_files/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://j-lewen.github.io/resource_files/resource_files/</guid>
-      <description>(https://j-lewen.github.io/erp/), including ERP analysis and pre-processing resources (i.e., scripts and video tutorials on pre-processing and data analysis using MATLAB - further software coming soon), unpublished research output (i.e., databases, useful papers), and teaching material.
-Everything is released under a CC-BY license, which means you can do anything you want with these materials and can change/adapt them in any way you like, as long as you acknowledge that you got it from here.</description>
-    </item>
-    
   </channel>
 </rss>
