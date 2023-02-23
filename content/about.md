@@ -6,7 +6,7 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-I am an acadmic currently working at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/) (NYUAD). My research interests span psycholinguistics, cognitive neuroscience, ERPology, and social cognition. 
+I am an academic currently working at [New York University Abu Dhabi](https://nyuad.nyu.edu/en/) (NYUAD). My research interests span psycholinguistics, cognitive neuroscience, ERPology, and social cognition. 
 
 Specifically, my current work follow three main themes: (i) the development of functional 
 and neurobiological accounts of speech processing, alongside improvements in replicability & standardisation of reporting in ERP research (ii) investigations into listener extraction of non-linguistic, pragmatic speaker information (e.g., attitudes/stereotypes, and inferences about gender, sexuality, race), and (iii) eye-tracking and ERP investigations into the cognitive mechanisms underpinning bi/multilingualism. I teach courses spanning statistics & research methods, psycholinguistics, language impairments, critical appraisal & evidence-based practice and neurobiology/cognitive neuroscience.
