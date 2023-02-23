@@ -18,7 +18,9 @@ My projects pertaining to the ERP indices of speech processing predominantly see
 
 #### Bilingualism
 
-I have a sustained interest in bi/multi-lingualism, language co-activation and language-experience evoked neuroplasticity. I am particularly interested in research into understudied languages, and working to reduce the euro-centric bias continually present in linguistic research.
+I have a sustained interest in bi-/multilingualism, language co-activation and language-experience evoked neuroplasticity. I am particularly interested in research into understudied languages, and working to reduce the euro-centric bias continually present in linguistic research. 
+Research - overwhelmingly on Indoeuropean languages - has extensively shaped our understanding of the cognitive systems that underpin bi-/multilingualism. More recently however, research has highlighted the importance of moving away from the notion of bilingualism as a homogenous experience, instead pointing towards the differing effects on language processing and cognition had by contrasting language contexts and backgrounds ([Bak, 2016](https://www.semanticscholar.org/paper/Cooking-Pasta-in-La-Paz-%3A-Bilingualism-%2C-Bias-and-Paz/c039964b41772a93c16ea1016aaf99c2128861f4)). The diverse range of linguistic experiences that comprise bilingualism often mean that current models of word recognition and speech comprehension, upon which our understanding of language processing lies, often present with narrow and restrictive accounts (Weber & Sharenborg, 2012). The generalisation of cognitive processes underpinning bilingualism, as represented by language models, discounts the possibility that the acquisition of a second language may have different cognitive implications across different environments, groups and contexts. My work into bi-/multilingualism seeks to  investigate phenomena in understudied languages, contributing to a growing body of literature that expands our current understanding of how language functions.
+
 
 #### Social Cognition
 

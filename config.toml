@@ -149,7 +149,7 @@ weight = 2
 url = "research/"
 
 [[languages.en.menu.main]]
-name = "Data & Projects"
+name = "Publications"
 weight = 4
 url = "posts/"
 
