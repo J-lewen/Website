@@ -78,7 +78,7 @@ Influences on implicit priming through L1 activation. *University of Zurich, Pho
 
 ### Current/ongoing work
 
-• Lewendon, J., Egan, C., & Politzer-Ahles, S.J. (in prep1
+• Lewendon, J., Egan, C., & Politzer-Ahles, S.J. (in prep
 ) The Phonological Mapping
 Negativity: A Systematic Review. Pre-registration available: [here](https://osf.io/u35xk/?view_only=76c57b6198f5477b9a9fd5c780cb374b).
 
