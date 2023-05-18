@@ -26,7 +26,7 @@ methodological quality assessment: the Event-Related Potential Quality Assessmen
 
 • Lewendon, J., Britton, J., Poliltzer-Ahles, S.J. (2023) [The MMN by another 
 name? Exploring the assumed autonomy of the Phonological Mapping (Mismatch)
-Negativity](https://www.tandfonline.com/doi/full/10.1080/23273798.2023.2203507?casa_token=x5L64sR9Gv4AAAAA%3ABpMWyMjiln7EdoaDEIPy6hsWX0VC9SSb1eDqrWbK5O_RpclRXUCY8QxltPhTB6ds_BI-7pNkoBCi). *Language Cognition and Neuroscience*.
+Negativity](https://www.tandfonline.com/doi/full/10.1080/23273798.2023.2203507?casa_token=x5L64sR9Gv4AAAAA%3ABpMWyMjiln7EdoaDEIPy6hsWX0VC9SSb1eDqrWbK5O_RpclRXUCY8QxltPhTB6ds_BI-7pNkoBCi). *Language Cognition and Neuroscience*. (see the accepted author manuscript [here](/files/LCN_2023_AAM.pdf))
 
 • Lewendon, J., Mortimore, L., & Egan, C. (2020). [The Phonological Mapping (Mismatch) 
 Negativity: History, inconsistency, and future direction](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01967/full). *Frontiers in Psychology*, 11, 1967. 
