@@ -14,7 +14,7 @@ My publications, conference proceedings and other stuff can be found listed here
 
 ##### Journal articles
 
-• Lewendon, J., Britton, J., Politzer-Ahles, S.J. (submitted) The ‘Phonological?’ Mapping 
+• Lewendon, J., Britton, J., Politzer-Ahles, S.J. (under review) The ‘Phonological?’ Mapping 
 Negativity – language specificity of auditory ERP responses, Targeted journal: *PLOS ONE*
 
 • Vari, J., **Lewendon, J**. (under review) Studying implicit automatic language attitudes:
@@ -24,9 +24,9 @@ Methodological challenges of the Affective Priming Paradigm. *Language & Communi
 methodological quality assessment: the Event-Related Potential Quality Assessment List.
 *Psychophysiology*.
 
-• Lewendon, J., Britton, J., Poliltzer-Ahles, S.J. (under review) The MMN by another 
+• Lewendon, J., Britton, J., Poliltzer-Ahles, S.J. (2023) [The MMN by another 
 name? Exploring the assumed autonomy of the Phonological Mapping (Mismatch)
-Negativity. *Language Cognition and Neuroscience*.
+Negativity](https://www.tandfonline.com/doi/full/10.1080/23273798.2023.2203507?casa_token=x5L64sR9Gv4AAAAA%3ABpMWyMjiln7EdoaDEIPy6hsWX0VC9SSb1eDqrWbK5O_RpclRXUCY8QxltPhTB6ds_BI-7pNkoBCi). *Language Cognition and Neuroscience*.
 
 • Lewendon, J., Mortimore, L., & Egan, C. (2020). [The Phonological Mapping (Mismatch) 
 Negativity: History, inconsistency, and future direction](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01967/full). *Frontiers in Psychology*, 11, 1967. 
