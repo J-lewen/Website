@@ -6,7 +6,7 @@ aliases = []
 author = "Jen"
 +++
 
-Here are some links to my [ERP resources website](https://j-lewen.github.io/erp/), including ERP analysis and pre-processing training material (i.e., scripts and video tutorials on pre-processing and data analysis using a variety of software), useful frameworks & publications, and unpublished research output (i.e., databases, useful papers). 
+Here are some links to my [ERP resources website (under development)](https://j-lewen.github.io/erp/), including ERP analysis and pre-processing training material (i.e., scripts and video tutorials on pre-processing and data analysis using a variety of software), useful frameworks & publications, and unpublished research output (i.e., databases, useful papers). 
 
 Everything is released under a CC-BY license, which means you can do anything you want with these materials and can change/adapt them in any way you like, as long as you acknowledge that you got it from here.
 
