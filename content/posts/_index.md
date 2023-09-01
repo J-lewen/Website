@@ -37,9 +37,12 @@ Sciences*, 10(2), 113
 
 ##### Conferences & Invited talks
 
+• Lewendon, J., Lin, J., Politzer-Ahles, S. (2023) Bilingual Language Coactivation: Translation Equivalents or Conceptual Overlap? *Architectures and Mechanisms for Language Processing Conference (AMLaP)*, Hong Kong.
+
+• Lewendon, J., Lin, J., Politzer-Ahles, S. (2023) [Unconscious categorisation of L2 concepts may be based on the native semantic network](/files/Poster_ESCOP_FINAL.pdf) 23rd *Conference of the European Society of Cognitive Psychology (ESCOP)*, Porto, Portugal.
+
 • Lewendon, J., Egan, C., & Politzer-Ahles, S.J. The Event-Related Potential Quality
-Assessment List (EQuAL): a framework for systematic review and meta-analyses. *Cognitive
-Neuroscience Annual Meeting (CNS)*, San Francisco, 2022.
+Assessment List (EQuAL): a framework for systematic review and meta-analyses. *Cognitive Neuroscience Annual Meeting (CNS)*, San Francisco, 2022.
 
 • Lewendon, J., Egan, C., & Politzer-Ahles, S.J. (2012). Developing a tool for systematic reviews of
 ERP literature. *Hong Kong Polytechnic University, Language Neurobiology Group*, Hong Kong.
@@ -53,14 +56,13 @@ Conference*, Massachusetts, USA.
 effects of actions and role relations during second language picture-sentence verification.](/files/CNS_2020.pdf)
 *Cognitive Neuroscience Society (CNS)*. Boston, USA.
 
-• Lewendon, J., Foltz, A., & Thierry, G. (2019). Accent and Bilingualism. University of Bangor, *School
-of Language, Literatures & Linguistics Research Series*.
+• Lewendon, J., Foltz, A., & Thierry, G. (2019). Accent and Bilingualism. University of Bangor, *School of Language, Literatures & Linguistics Research Series*.
 
 • Lewendon, J., Foltz, A., & Thierry, G. (2019). The role of native accent in unconscious L1 access.
 *Humboldt-Universität zu Berlin, Dept. of German Studies and Linguistics*, Berlin.
 
 • Lewendon, J., Foltz, A., & Thierry, G. (2018). [Does stress close the language gate? Inhibition
-of unconscious L1 activation.](https://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Program_files/AMLaP2018_proceedings.pdf) *24th Annual AMLaP Conference*, Berlin, Germany. 60.
+of unconscious L1 activation.](https://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Program_files/AMLaP2018_proceedings.pdf) *24th Annual Architectures and Mechanisms for Language Processing Conference (AMLaP)*, Berlin, Germany. 60.
 
 • Lewendon, J., Foltz, A., & Thierry, G. (2018). Lexical stress and unconscious L1 activation.
 *Cognitive Neuroscience of Second and Artificial Language Learning*, Bangor, UK.
