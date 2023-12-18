@@ -13,6 +13,6 @@ and neurobiological accounts of speech processing, alongside improvements in rep
 
 In my spare time, I enjoy [writing articles about academia](https://www.nature.com/articles/d41586-021-03566-4), creating ERP databases & resources, cooking, jumping in lakes, good beer, growing plants, and taking photos of the great outdoors so that I can remember what it looks like despite the sedentary nature of my job.
 
-Click [here](/files/Lewendon_CV_2023-24.pdf) to view & download my CV.
+Click to view and download my [CV](/files/Lewendon_CV_2023-24.pdf).
 
 ![Hong Kong](/images/HK.jpg)
